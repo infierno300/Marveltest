@@ -1,0 +1,7 @@
+# Ignorar archivos sensibles
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store   # si usas Mac
